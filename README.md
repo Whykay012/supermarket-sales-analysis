@@ -1854,15 +1854,6 @@ Skills Demonstrated
 
 Python • Pandas • NumPy • Matplotlib • Seaborn • SQL • SQLite • Tableau • Data Cleaning • Data Analysis • Data Visualisation • Business Intelligence • Data Storytelling
 
-🔗 Project Links
-Tableau Public
-
-View Interactive Supermarket Sales Dashboard
-
-GitHub
-
-Add your GitHub repository URL here after publishing the project.
-
 ⭐ Conclusion
 
 The Supermarket Sales Analysis project demonstrates a complete end-to-end data analytics workflow.
